@@ -1,11 +1,10 @@
 {
-  "name": "node",
+  "name": "api-todo",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server",
-    "build": "node server"
+    "start": "node index.js"
   },
   "author": "Anees Malik",
   "license": "ISC",
